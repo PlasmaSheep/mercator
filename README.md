@@ -1,4 +1,4 @@
-# Personal, hosted OSM maps
+# Mercator: Hosted OSM maps with POIs
 
  - Create POIs, lines, polygons
  - Import KLM, OSM XML
